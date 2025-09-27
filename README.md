@@ -15,7 +15,8 @@ This project reproduces the original Pac-Man experience while demonstrating core
 * Classic **sound effects** including the “waka-waka” pellet chomp.
 
 The complete development process, from research to testing, is documented in  
-[`PacmanProjectReport.pdf`](Pacman/PacmanProjectReport.pdf).
+[`PacmanProjectReport.pdf`](Pacman/PacmanProjectReport.pdf).  
+**Presentation slides:** [`PacmanPresentation.pdf`](docs/presentation.pdf)
 
 ---
 
@@ -30,19 +31,19 @@ The complete development process, from research to testing, is documented in
 
 ## Repository Structure
 
-├── index.html # Main page and canvas setup
-├── style.css # Optional CSS styling (if included)
-├── game.js # Game loop, map, collision logic, scoring
-├── pacman.js # Pac-Man class: movement, animation, pellet eating
-├── ghost.js # Ghost class: AI pathfinding and movement
-├── assets/
-│ ├── animations.gif # Pac-Man animation frames
-│ ├── ghost.png # Ghost sprite sheet
-│ └── sounds/
-│ └── waka.mp3 # Pellet sound effect
-└── docs/
-├── PacmanProjectReport.pdf # Full technical report & testing
-
+├── index.html # Main page and canvas setup  
+├── style.css # Optional CSS styling (if included)  
+├── game.js # Game loop, map, collision logic, scoring  
+├── pacman.js # Pac-Man class: movement, animation, pellet eating  
+├── ghost.js # Ghost class: AI pathfinding and movement  
+├── assets/  
+│   ├── animations.gif # Pac-Man animation frames  
+│   ├── ghost.png # Ghost sprite sheet  
+│   └── sounds/  
+│       └── waka.mp3 # Pellet sound effect  
+└── docs/  
+    ├── PacmanProjectReport.pdf # Full technical report & testing  
+    └── presentation.pdf        # Slide deck (new)
 
 ---
 
@@ -69,12 +70,11 @@ _No build step or server required._
 * Add mobile touch controls and multiple maze layouts.
 * Improve audio and background music.
 
-* Note : I have other major projects I'd like to accomplish before I come back to finish this in the future. 
+*Note: I have other major projects I'd like to accomplish before I come back to finish this in the future.*
 
 ---
 
-Developed as an **Individual Computing Project** to showcase strong programming,
+Developed as an **Individual Computing Project** and **Project Competition** to showcase strong programming,
 problem-solving, and documentation skills.
 
-
-Pritam Gurung 
+Pritam Gurung
