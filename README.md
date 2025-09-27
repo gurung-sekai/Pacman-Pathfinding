@@ -26,7 +26,8 @@ The complete development process, from research to testing, is documented in
 * **Pac-Man & Ghost Classes** – modular ES6 classes (`pacman.js`, `ghost.js`) for movement, animation, and AI.
 * **Dijkstra-style Pathfinding** – ghosts dynamically calculate the shortest route toward Pac-Man.
 * **Responsive Browser Play** – works in Chrome, Firefox, Edge, and Safari with no build tools.
-* <img width="490" height="520" alt="image" src="https://github.com/user-attachments/assets/9d5a4809-0e7c-4c0f-bcb4-6133eb8afe1f" />
+
+<img width="490" height="520" alt="image" src="https://github.com/user-attachments/assets/9d5a4809-0e7c-4c0f-bcb4-6133eb8afe1f" />
 
 
 ---
