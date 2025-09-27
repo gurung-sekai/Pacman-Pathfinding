@@ -15,7 +15,7 @@ This project reproduces the original Pac-Man experience while demonstrating core
 * Classic **sound effects** including the “waka-waka” pellet chomp.
 
 The complete development process, from research to testing, is documented in  
-[`PacmanProjectReport.pdf`](docs/PacmanProjectReport.pdf).
+[`PacmanProjectReport.pdf`](Pacman/PacmanProjectReport.pdf).
 
 ---
 
