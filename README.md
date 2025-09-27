@@ -66,6 +66,10 @@ _No build step or server required._
 * **Artificial Intelligence** – Dijkstra-based pathfinding for adaptive enemy behaviour.
 * **Software Engineering** – modular code structure, documentation, and testing.
 
+
+<img width="490" height="526" alt="image" src="https://github.com/user-attachments/assets/346efcbd-8f85-4112-91e1-488a73efa813" />
+
+
 ---
 
 ## Future Enhancements
