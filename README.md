@@ -19,7 +19,7 @@ This project reproduces the original Pac-Man experience while demonstrating core
 * Classic **sound effects** including the “waka-waka” pellet chomp.
 
 The complete development process, from research to testing, is documented in  
-[`PacmanProjectReport.pdf`](Pacman/PacmanProjectReport.pdf).  
+[`PacmanProjectReport.pdf`](Pacman/PacmanProjectReport.pdf)  
 **Presentation slides:** [`PacmanPresentation.pdf`](docs/presentation.pdf)
 
 ---
@@ -46,7 +46,6 @@ The complete development process, from research to testing, is documented in
 ## Repository Structure
 
 ├── index.html # Main page and canvas setup  
-├── style.css # Optional CSS styling (if included)  
 ├── game.js # Game loop, map, collision logic, scoring  
 ├── pacman.js # Pac-Man class: movement, animation, pellet eating  
 ├── ghost.js # Ghost class: AI pathfinding and movement  
@@ -58,7 +57,7 @@ The complete development process, from research to testing, is documented in
 └── docs/  
     ├── PacmanProjectReport.pdf # Full technical report & testing  
     └── presentation.pdf        # Slide deck (new)  
-    └── demo-screenshot.png     # Gameplay screenshot (new)
+
 
 ---
 
