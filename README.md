@@ -33,6 +33,13 @@ The complete development process, from research to testing, is documented in
 
 <img width="490" height="520" alt="image" src="https://github.com/user-attachments/assets/9d5a4809-0e7c-4c0f-bcb4-6133eb8afe1f" />
 
+---
+
+## Gameplay Screenshot
+
+<img width="582" height="656" alt="image" src="https://github.com/user-attachments/assets/a5979212-5ead-45ac-b1e3-3cddcdeaa60d" />
+
+
 
 ---
 
@@ -50,7 +57,8 @@ The complete development process, from research to testing, is documented in
 │       └── waka.mp3 # Pellet sound effect  
 └── docs/  
     ├── PacmanProjectReport.pdf # Full technical report & testing  
-    └── presentation.pdf        # Slide deck (new)
+    └── presentation.pdf        # Slide deck (new)  
+    └── demo-screenshot.png     # Gameplay screenshot (new)
 
 ---
 
@@ -70,9 +78,7 @@ _No build step or server required._
 * **Artificial Intelligence** – Dijkstra-based pathfinding for adaptive enemy behaviour.
 * **Software Engineering** – modular code structure, documentation, and testing.
 
-
 <img width="490" height="526" alt="image" src="https://github.com/user-attachments/assets/346efcbd-8f85-4112-91e1-488a73efa813" />
-
 
 ---
 
