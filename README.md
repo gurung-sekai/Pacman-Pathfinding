@@ -35,9 +35,15 @@ The complete development process, from research to testing, is documented in
 
 ---
 
-## Gameplay Screenshot
+## Gameplay Screenshot and Live Demonstration
 
 <img width="582" height="656" alt="image" src="https://github.com/user-attachments/assets/a5979212-5ead-45ac-b1e3-3cddcdeaa60d" />
+
+
+
+
+
+https://github.com/user-attachments/assets/36dddcd2-44a9-4118-9e2d-feb4fd61b7cd
 
 
 
