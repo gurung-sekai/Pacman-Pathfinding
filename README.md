@@ -3,6 +3,10 @@
 A modern browser-based recreation of the classic **Pac-Man** arcade game.  
 Built entirely with **HTML5 Canvas**, **CSS**, and **vanilla JavaScript**—no frameworks.
 
+![animations (1)](https://github.com/user-attachments/assets/272f6cdd-2a50-417a-b74d-60d1f1721d90)
+
+<img width="300" height="236" alt="ghost (1)" src="https://github.com/user-attachments/assets/9949cdf9-58f0-4777-a3d8-8021e714702b" />
+
 ---
 
 ## Overview
